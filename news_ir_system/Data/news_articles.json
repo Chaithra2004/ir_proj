@@ -1,0 +1,802 @@
+[
+  {
+    "link": "https://news-sample.com/article/international-summit-addresses-economic-cooperation",
+    "headline": "International Summit Addresses economic cooperation",
+    "category": "WORLD NEWS",
+    "short_description": "The initiative aims to address challenges related to trade relations across borders.",
+    "authors": "David Garcia",
+    "date": "2024-10-13"
+  },
+  {
+    "link": "https://news-sample.com/article/historic-agreement-reached-between-india-and-canada",
+    "headline": "Historic Agreement Reached Between India and Canada",
+    "category": "WORLD NEWS",
+    "short_description": "The agreement marks a historic step forward in addressing climate policy.",
+    "authors": "Sarah Jones",
+    "date": "2024-10-14"
+  },
+  {
+    "link": "https://news-sample.com/article/health-experts-recommend-new-guidelines-for-immune-system",
+    "headline": "Health Experts Recommend New Guidelines for immune system",
+    "category": "HEALTH",
+    "short_description": "Experts recommend lifestyle changes including sleep habits for better health outcomes.",
+    "authors": "Michael Garcia",
+    "date": "2024-10-15"
+  },
+  {
+    "link": "https://news-sample.com/article/economic-report-shows-rapid-in-digital-payments-growth",
+    "headline": "Economic Report Shows rapid in digital payments Growth",
+    "category": "BUSINESS",
+    "short_description": "The move is part of a larger strategy to expand presence in Middle East markets.",
+    "authors": "Emma Brown",
+    "date": "2024-10-16"
+  },
+  {
+    "link": "https://news-sample.com/article/new-study-links-diet-to-improved-longevity",
+    "headline": "New Study Links diet to Improved longevity",
+    "category": "HEALTH",
+    "short_description": "The research suggests significant benefits for patients suffering from chronic pain.",
+    "authors": "John Johnson",
+    "date": "2024-10-17"
+  },
+  {
+    "link": "https://news-sample.com/article/international-team-maps-human-evolution-for-first-time",
+    "headline": "International Team Maps human evolution for First Time",
+    "category": "SCIENCE",
+    "short_description": "Researchers say this finding could revolutionize our approach to artificial intelligence.",
+    "authors": "David Jones",
+    "date": "2024-10-18"
+  },
+  {
+    "link": "https://news-sample.com/article/research-reveals-benefits-of-sleep-habits-for-mental-health",
+    "headline": "Research Reveals Benefits of sleep habits for mental health",
+    "category": "HEALTH",
+    "short_description": "Clinical trials show promising results in treating diabetes with new approach.",
+    "authors": "David Williams",
+    "date": "2024-10-19"
+  },
+  {
+    "link": "https://news-sample.com/article/global-initiative-launches-to-combat-cybercrime",
+    "headline": "Global Initiative Launches to Combat cybercrime",
+    "category": "WORLD NEWS",
+    "short_description": "The agreement marks a historic step forward in addressing climate policy.",
+    "authors": "Jane Jones",
+    "date": "2024-10-20"
+  },
+  {
+    "link": "https://news-sample.com/article/new-study-links-exercise-to-improved-immune-function",
+    "headline": "New Study Links exercise to Improved immune function",
+    "category": "HEALTH",
+    "short_description": "The research suggests significant benefits for patients suffering from alzheimer's.",
+    "authors": "Emma Smith",
+    "date": "2024-10-21"
+  },
+  {
+    "link": "https://news-sample.com/article/international-summit-addresses-economic-cooperation",
+    "headline": "International Summit Addresses economic cooperation",
+    "category": "WORLD NEWS",
+    "short_description": "The decision is expected to have significant implications for public health globally.",
+    "authors": "Emma Smith",
+    "date": "2024-10-22"
+  },
+  {
+    "link": "https://news-sample.com/article/market-surge-innovatex-stock-rises-35%-after-strategic-partnership",
+    "headline": "Market Surge: InnovateX Stock Rises 35% After strategic partnership",
+    "category": "BUSINESS",
+    "short_description": "Industry experts view this development as a positive sign for digital payments growth.",
+    "authors": "Michael Johnson",
+    "date": "2024-10-23"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-in-quantum-computing-achieves-processing-speed-record",
+    "headline": "Breakthrough in Quantum Computing Achieves processing speed record",
+    "category": "TECHNOLOGY",
+    "short_description": "Researchers have achieved significant progress in robotics, promising to revolutionize autonomous vehicles.",
+    "authors": "Michael Williams",
+    "date": "2024-10-24"
+  },
+  {
+    "link": "https://news-sample.com/article/european-union-announces-major-policy-shift-on-technology-regulation",
+    "headline": "European Union Announces Major Policy Shift on technology regulation",
+    "category": "WORLD NEWS",
+    "short_description": "The agreement marks a historic step forward in addressing trade relations.",
+    "authors": "Michael Johnson",
+    "date": "2024-10-25"
+  },
+  {
+    "link": "https://news-sample.com/article/global-investment-in-cloud-computing-reaches-$1000b",
+    "headline": "Global Investment in cloud computing Reaches $1000B",
+    "category": "BUSINESS",
+    "short_description": "The deal is expected to create new opportunities in cloud computing and boost market competition.",
+    "authors": "Emma Williams",
+    "date": "2024-10-26"
+  },
+  {
+    "link": "https://news-sample.com/article/health-experts-recommend-new-guidelines-for-physical-fitness",
+    "headline": "Health Experts Recommend New Guidelines for physical fitness",
+    "category": "HEALTH",
+    "short_description": "The study highlights the importance of sleep in maintaining good health.",
+    "authors": "Jane Johnson",
+    "date": "2024-10-27"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-treatment-shows-promise-for-chronic-pain",
+    "headline": "Breakthrough Treatment Shows Promise for chronic pain",
+    "category": "HEALTH",
+    "short_description": "Clinical trials show promising results in treating heart disease with new approach.",
+    "authors": "Michael Johnson",
+    "date": "2024-10-28"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-treatment-shows-promise-for-diabetes",
+    "headline": "Breakthrough Treatment Shows Promise for diabetes",
+    "category": "HEALTH",
+    "short_description": "The research suggests significant benefits for patients suffering from heart disease.",
+    "authors": "Jane Smith",
+    "date": "2024-10-29"
+  },
+  {
+    "link": "https://news-sample.com/article/techcorp-announces-merger-with-innovateco",
+    "headline": "TechCorp Announces Merger with InnovateCo",
+    "category": "BUSINESS",
+    "short_description": "Investors respond positively to news of market expansion, driving stock prices up.",
+    "authors": "Michael Jones",
+    "date": "2024-10-30"
+  },
+  {
+    "link": "https://news-sample.com/article/new-ai-model-breaks-performance-records-in-pattern-detection",
+    "headline": "New AI Model Breaks Performance Records in pattern detection",
+    "category": "TECHNOLOGY",
+    "short_description": "Industry experts predict this development could transform finance within the next few years.",
+    "authors": "David Jones",
+    "date": "2024-10-31"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-study-shows-promise-for-chronic-pain-treatment",
+    "headline": "Breakthrough Study Shows Promise for chronic pain Treatment",
+    "category": "SCIENCE",
+    "short_description": "This breakthrough could have significant implications for quantum computing research.",
+    "authors": "Sarah Johnson",
+    "date": "2024-11-01"
+  },
+  {
+    "link": "https://news-sample.com/article/economic-report-shows-positive-in-digital-payments-growth",
+    "headline": "Economic Report Shows positive in digital payments Growth",
+    "category": "BUSINESS",
+    "short_description": "Investors respond positively to news of quarterly earnings, driving stock prices up.",
+    "authors": "David Jones",
+    "date": "2024-11-02"
+  },
+  {
+    "link": "https://news-sample.com/article/market-surge-nextgen-solutions-stock-rises-25%-after-market-expansion",
+    "headline": "Market Surge: NextGen Solutions Stock Rises 25% After market expansion",
+    "category": "BUSINESS",
+    "short_description": "Industry experts view this development as a positive sign for artificial intelligence growth.",
+    "authors": "David Garcia",
+    "date": "2024-11-03"
+  },
+  {
+    "link": "https://news-sample.com/article/innovatex-expands-operations-to-latin-america",
+    "headline": "InnovateX Expands Operations to Latin America",
+    "category": "BUSINESS",
+    "short_description": "Investors respond positively to news of product launch, driving stock prices up.",
+    "authors": "John Garcia",
+    "date": "2024-11-04"
+  },
+  {
+    "link": "https://news-sample.com/article/medical-trial-reports-success-in-cancer-therapy-development",
+    "headline": "Medical Trial Reports Success in cancer therapy Development",
+    "category": "HEALTH",
+    "short_description": "Experts recommend lifestyle changes including diet changes for better health outcomes.",
+    "authors": "Emma Garcia",
+    "date": "2024-11-05"
+  },
+  {
+    "link": "https://news-sample.com/article/united-states-announces-major-policy-shift-on-climate-policy",
+    "headline": "United States Announces Major Policy Shift on climate policy",
+    "category": "WORLD NEWS",
+    "short_description": "The initiative aims to address challenges related to climate policy across borders.",
+    "authors": "Emma Garcia",
+    "date": "2024-11-06"
+  },
+  {
+    "link": "https://news-sample.com/article/report-shows-impact-of-economic-cooperation-on-asia-pacific",
+    "headline": "Report Shows Impact of economic cooperation on Asia Pacific",
+    "category": "WORLD NEWS",
+    "short_description": "The decision is expected to have significant implications for economic cooperation globally.",
+    "authors": "Michael Brown",
+    "date": "2024-11-07"
+  },
+  {
+    "link": "https://news-sample.com/article/nextgen-solutions-expands-operations-to-middle-east",
+    "headline": "NextGen Solutions Expands Operations to Middle East",
+    "category": "BUSINESS",
+    "short_description": "Analysts predict significant market impact following the announcement of strategic partnership.",
+    "authors": "Jane Garcia",
+    "date": "2024-11-08"
+  },
+  {
+    "link": "https://news-sample.com/article/startup-raises-$250m-for-blockchain-system-development",
+    "headline": "Startup Raises $250M for blockchain system Development",
+    "category": "TECHNOLOGY",
+    "short_description": "Early tests show promising results in space exploration, with potential applications in quantum computing.",
+    "authors": "Emma Johnson",
+    "date": "2024-11-09"
+  },
+  {
+    "link": "https://news-sample.com/article/global-investment-in-biotechnology-reaches-$250b",
+    "headline": "Global Investment in biotechnology Reaches $250B",
+    "category": "BUSINESS",
+    "short_description": "Investors respond positively to news of technology acquisition, driving stock prices up.",
+    "authors": "Sarah Jones",
+    "date": "2024-11-10"
+  },
+  {
+    "link": "https://news-sample.com/article/futureworks-expands-operations-to-middle-east",
+    "headline": "FutureWorks Expands Operations to Middle East",
+    "category": "BUSINESS",
+    "short_description": "The move is part of a larger strategy to expand presence in Latin America markets.",
+    "authors": "David Johnson",
+    "date": "2024-11-11"
+  },
+  {
+    "link": "https://news-sample.com/article/research-reveals-benefits-of-exercise-for-physical-fitness",
+    "headline": "Research Reveals Benefits of exercise for physical fitness",
+    "category": "HEALTH",
+    "short_description": "Experts recommend lifestyle changes including diet changes for better health outcomes.",
+    "authors": "John Johnson",
+    "date": "2024-11-12"
+  },
+  {
+    "link": "https://news-sample.com/article/research-reveals-unexpected-link-between-diet-and-longevity",
+    "headline": "Research Reveals Unexpected Link Between diet and longevity",
+    "category": "SCIENCE",
+    "short_description": "The findings open new possibilities for applications in quantum computing.",
+    "authors": "Jane Smith",
+    "date": "2024-11-13"
+  },
+  {
+    "link": "https://news-sample.com/article/medical-trial-reports-success-in-gene-therapy-development",
+    "headline": "Medical Trial Reports Success in gene therapy Development",
+    "category": "HEALTH",
+    "short_description": "The research suggests significant benefits for patients suffering from chronic pain.",
+    "authors": "Sarah Brown",
+    "date": "2024-11-14"
+  },
+  {
+    "link": "https://news-sample.com/article/international-summit-addresses-cybersecurity",
+    "headline": "International Summit Addresses cybersecurity",
+    "category": "WORLD NEWS",
+    "short_description": "The agreement marks a historic step forward in addressing technology regulation.",
+    "authors": "Michael Garcia",
+    "date": "2024-11-15"
+  },
+  {
+    "link": "https://news-sample.com/article/new-ai-model-breaks-performance-records-in-speech-recognition",
+    "headline": "New AI Model Breaks Performance Records in speech recognition",
+    "category": "TECHNOLOGY",
+    "short_description": "The new technology demonstrates unprecedented accuracy in predictive analytics, marking a major milestone.",
+    "authors": "Jane Garcia",
+    "date": "2024-11-16"
+  },
+  {
+    "link": "https://news-sample.com/article/tech-giant-launches-revolutionary-autonomous-vehicle-system",
+    "headline": "Tech Giant Launches Revolutionary autonomous vehicle system",
+    "category": "TECHNOLOGY",
+    "short_description": "Researchers have achieved significant progress in artificial intelligence, promising to revolutionize autonomous vehicles.",
+    "authors": "Emma Garcia",
+    "date": "2024-11-17"
+  },
+  {
+    "link": "https://news-sample.com/article/new-study-links-sleep-to-improved-immune-function",
+    "headline": "New Study Links sleep to Improved immune function",
+    "category": "HEALTH",
+    "short_description": "The study highlights the importance of exercise in maintaining good health.",
+    "authors": "Sarah Brown",
+    "date": "2024-11-18"
+  },
+  {
+    "link": "https://news-sample.com/article/new-ai-model-breaks-performance-records-in-pattern-detection",
+    "headline": "New AI Model Breaks Performance Records in pattern detection",
+    "category": "TECHNOLOGY",
+    "short_description": "Early tests show promising results in healthcare, with potential applications in robotics.",
+    "authors": "Jane Brown",
+    "date": "2024-11-19"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-treatment-shows-promise-for-heart-disease",
+    "headline": "Breakthrough Treatment Shows Promise for heart disease",
+    "category": "HEALTH",
+    "short_description": "The research suggests significant benefits for patients suffering from alzheimer's.",
+    "authors": "John Williams",
+    "date": "2024-11-20"
+  },
+  {
+    "link": "https://news-sample.com/article/global-investment-in-biotechnology-reaches-$1000b",
+    "headline": "Global Investment in biotechnology Reaches $1000B",
+    "category": "BUSINESS",
+    "short_description": "Analysts predict significant market impact following the announcement of quarterly earnings.",
+    "authors": "David Johnson",
+    "date": "2024-11-21"
+  },
+  {
+    "link": "https://news-sample.com/article/startup-raises-$250m-for-ai-model-development",
+    "headline": "Startup Raises $250M for AI model Development",
+    "category": "TECHNOLOGY",
+    "short_description": "The innovation addresses long-standing challenges in robotics, offering new possibilities.",
+    "authors": "Sarah Johnson",
+    "date": "2024-11-22"
+  },
+  {
+    "link": "https://news-sample.com/article/global-initiative-launches-to-combat-public-health-challenges",
+    "headline": "Global Initiative Launches to Combat public health challenges",
+    "category": "WORLD NEWS",
+    "short_description": "The decision is expected to have significant implications for trade relations globally.",
+    "authors": "Jane Jones",
+    "date": "2024-11-23"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-treatment-shows-promise-for-heart-disease",
+    "headline": "Breakthrough Treatment Shows Promise for heart disease",
+    "category": "HEALTH",
+    "short_description": "New guidelines aim to improve treatment outcomes for alzheimer's patients.",
+    "authors": "Sarah Jones",
+    "date": "2024-11-24"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-study-shows-promise-for-alzheimers-treatment",
+    "headline": "Breakthrough Study Shows Promise for alzheimer's Treatment",
+    "category": "SCIENCE",
+    "short_description": "Researchers say this finding could revolutionize our approach to robotics.",
+    "authors": "John Brown",
+    "date": "2024-11-25"
+  },
+  {
+    "link": "https://news-sample.com/article/global-investment-in-artificial-intelligence-reaches-$250b",
+    "headline": "Global Investment in artificial intelligence Reaches $250B",
+    "category": "BUSINESS",
+    "short_description": "Industry experts view this development as a positive sign for cloud computing growth.",
+    "authors": "Sarah Williams",
+    "date": "2024-11-26"
+  },
+  {
+    "link": "https://news-sample.com/article/startup-raises-$500m-for-neural-network-development",
+    "headline": "Startup Raises $500M for neural network Development",
+    "category": "TECHNOLOGY",
+    "short_description": "Early tests show promising results in healthcare, with potential applications in renewable energy.",
+    "authors": "David Williams",
+    "date": "2024-11-27"
+  },
+  {
+    "link": "https://news-sample.com/article/global-initiative-launches-to-combat-food-security",
+    "headline": "Global Initiative Launches to Combat food security",
+    "category": "WORLD NEWS",
+    "short_description": "Experts say this development could reshape international relations in European Union.",
+    "authors": "Michael Johnson",
+    "date": "2024-11-28"
+  },
+  {
+    "link": "https://news-sample.com/article/new-evidence-suggests-alternative-hypothesis-about-universe-expansion",
+    "headline": "New Evidence Suggests alternative hypothesis About universe expansion",
+    "category": "SCIENCE",
+    "short_description": "The discovery could lead to new understanding of genetic variation and its role in quantum computing.",
+    "authors": "Jane Johnson",
+    "date": "2024-11-29"
+  },
+  {
+    "link": "https://news-sample.com/article/scientists-discover-new-species-in-rainforest",
+    "headline": "Scientists Discover New species in rainforest",
+    "category": "SCIENCE",
+    "short_description": "The study provides new insights into brain function, challenging previous theories.",
+    "authors": "Michael Johnson",
+    "date": "2024-11-30"
+  },
+  {
+    "link": "https://news-sample.com/article/tech-giant-launches-revolutionary-smartphone",
+    "headline": "Tech Giant Launches Revolutionary smartphone",
+    "category": "TECHNOLOGY",
+    "short_description": "The innovation addresses long-standing challenges in biotechnology, offering new possibilities.",
+    "authors": "Michael Jones",
+    "date": "2024-12-01"
+  },
+  {
+    "link": "https://news-sample.com/article/global-investment-in-renewable-energy-reaches-$500b",
+    "headline": "Global Investment in renewable energy Reaches $500B",
+    "category": "BUSINESS",
+    "short_description": "Investors respond positively to news of market expansion, driving stock prices up.",
+    "authors": "Sarah Williams",
+    "date": "2024-12-02"
+  },
+  {
+    "link": "https://news-sample.com/article/japan-announces-major-policy-shift-on-public-health",
+    "headline": "Japan Announces Major Policy Shift on public health",
+    "category": "WORLD NEWS",
+    "short_description": "The decision is expected to have significant implications for trade relations globally.",
+    "authors": "David Brown",
+    "date": "2024-12-03"
+  },
+  {
+    "link": "https://news-sample.com/article/international-team-maps-universe-expansion-for-first-time",
+    "headline": "International Team Maps universe expansion for First Time",
+    "category": "SCIENCE",
+    "short_description": "Researchers say this finding could revolutionize our approach to quantum computing.",
+    "authors": "Sarah Jones",
+    "date": "2024-12-04"
+  },
+  {
+    "link": "https://news-sample.com/article/scientists-discover-new-particle-in-deep-ocean",
+    "headline": "Scientists Discover New particle in deep ocean",
+    "category": "SCIENCE",
+    "short_description": "Researchers say this finding could revolutionize our approach to biotechnology.",
+    "authors": "Jane Jones",
+    "date": "2024-12-05"
+  },
+  {
+    "link": "https://news-sample.com/article/japan-announces-major-policy-shift-on-trade-relations",
+    "headline": "Japan Announces Major Policy Shift on trade relations",
+    "category": "WORLD NEWS",
+    "short_description": "The initiative aims to address challenges related to technology regulation across borders.",
+    "authors": "Michael Smith",
+    "date": "2024-12-06"
+  },
+  {
+    "link": "https://news-sample.com/article/international-summit-addresses-renewable-energy",
+    "headline": "International Summit Addresses renewable energy",
+    "category": "WORLD NEWS",
+    "short_description": "The initiative aims to address challenges related to climate policy across borders.",
+    "authors": "Sarah Jones",
+    "date": "2024-12-07"
+  },
+  {
+    "link": "https://news-sample.com/article/research-reveals-benefits-of-meditation-for-physical-fitness",
+    "headline": "Research Reveals Benefits of meditation for physical fitness",
+    "category": "HEALTH",
+    "short_description": "The study highlights the importance of sleep in maintaining good health.",
+    "authors": "Emma Jones",
+    "date": "2024-12-08"
+  },
+  {
+    "link": "https://news-sample.com/article/tech-giant-launches-revolutionary-smart-home-system",
+    "headline": "Tech Giant Launches Revolutionary smart home system",
+    "category": "TECHNOLOGY",
+    "short_description": "Early tests show promising results in cybersecurity, with potential applications in renewable energy.",
+    "authors": "David Williams",
+    "date": "2024-12-09"
+  },
+  {
+    "link": "https://news-sample.com/article/research-reveals-unexpected-link-between-exercise-and-physical-performance",
+    "headline": "Research Reveals Unexpected Link Between exercise and physical performance",
+    "category": "SCIENCE",
+    "short_description": "The study provides new insights into genetic variation, challenging previous theories.",
+    "authors": "Sarah Johnson",
+    "date": "2024-12-10"
+  },
+  {
+    "link": "https://news-sample.com/article/scientists-develop-quantum-processor-for-autonomous-vehicles",
+    "headline": "Scientists Develop quantum processor for autonomous vehicles",
+    "category": "TECHNOLOGY",
+    "short_description": "The new technology demonstrates unprecedented accuracy in predictive analytics, marking a major milestone.",
+    "authors": "John Williams",
+    "date": "2024-12-11"
+  },
+  {
+    "link": "https://news-sample.com/article/scientists-discover-new-particle-in-ancient-ruins",
+    "headline": "Scientists Discover New particle in ancient ruins",
+    "category": "SCIENCE",
+    "short_description": "Researchers say this finding could revolutionize our approach to renewable energy.",
+    "authors": "David Garcia",
+    "date": "2024-12-12"
+  },
+  {
+    "link": "https://news-sample.com/article/economic-report-shows-rapid-in-biotechnology-growth",
+    "headline": "Economic Report Shows rapid in biotechnology Growth",
+    "category": "BUSINESS",
+    "short_description": "Industry experts view this development as a positive sign for biotechnology growth.",
+    "authors": "Jane Brown",
+    "date": "2024-12-13"
+  },
+  {
+    "link": "https://news-sample.com/article/health-experts-recommend-new-guidelines-for-immune-system",
+    "headline": "Health Experts Recommend New Guidelines for immune system",
+    "category": "HEALTH",
+    "short_description": "New guidelines aim to improve treatment outcomes for alzheimer's patients.",
+    "authors": "John Jones",
+    "date": "2024-12-14"
+  },
+  {
+    "link": "https://news-sample.com/article/new-ai-model-breaks-performance-records-in-speech-recognition",
+    "headline": "New AI Model Breaks Performance Records in speech recognition",
+    "category": "TECHNOLOGY",
+    "short_description": "The innovation addresses long-standing challenges in robotics, offering new possibilities.",
+    "authors": "Sarah Jones",
+    "date": "2024-12-15"
+  },
+  {
+    "link": "https://news-sample.com/article/scientists-develop-quantum-processor-for-space-exploration",
+    "headline": "Scientists Develop quantum processor for space exploration",
+    "category": "TECHNOLOGY",
+    "short_description": "Researchers have achieved significant progress in artificial intelligence, promising to revolutionize space exploration.",
+    "authors": "John Jones",
+    "date": "2024-12-16"
+  },
+  {
+    "link": "https://news-sample.com/article/global-initiative-launches-to-combat-public-health-challenges",
+    "headline": "Global Initiative Launches to Combat public health challenges",
+    "category": "WORLD NEWS",
+    "short_description": "The initiative aims to address challenges related to trade relations across borders.",
+    "authors": "John Smith",
+    "date": "2024-12-17"
+  },
+  {
+    "link": "https://news-sample.com/article/european-union-announces-major-policy-shift-on-climate-policy",
+    "headline": "European Union Announces Major Policy Shift on climate policy",
+    "category": "WORLD NEWS",
+    "short_description": "The initiative aims to address challenges related to technology regulation across borders.",
+    "authors": "John Williams",
+    "date": "2024-12-18"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-study-shows-promise-for-alzheimers-treatment",
+    "headline": "Breakthrough Study Shows Promise for alzheimer's Treatment",
+    "category": "SCIENCE",
+    "short_description": "The study provides new insights into brain function, challenging previous theories.",
+    "authors": "Jane Smith",
+    "date": "2024-12-19"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-study-shows-promise-for-diabetes-treatment",
+    "headline": "Breakthrough Study Shows Promise for diabetes Treatment",
+    "category": "SCIENCE",
+    "short_description": "Researchers say this finding could revolutionize our approach to robotics.",
+    "authors": "Sarah Smith",
+    "date": "2024-12-20"
+  },
+  {
+    "link": "https://news-sample.com/article/international-summit-addresses-economic-cooperation",
+    "headline": "International Summit Addresses economic cooperation",
+    "category": "WORLD NEWS",
+    "short_description": "Experts say this development could reshape international relations in European Union.",
+    "authors": "Sarah Brown",
+    "date": "2024-12-21"
+  },
+  {
+    "link": "https://news-sample.com/article/international-summit-addresses-climate-change",
+    "headline": "International Summit Addresses climate change",
+    "category": "WORLD NEWS",
+    "short_description": "Leaders from multiple nations gathered to address growing concerns about trade relations.",
+    "authors": "David Brown",
+    "date": "2024-12-22"
+  },
+  {
+    "link": "https://news-sample.com/article/new-study-links-stress-management-to-improved-mental-clarity",
+    "headline": "New Study Links stress management to Improved mental clarity",
+    "category": "HEALTH",
+    "short_description": "Experts recommend lifestyle changes including sleep habits for better health outcomes.",
+    "authors": "Emma Smith",
+    "date": "2024-12-23"
+  },
+  {
+    "link": "https://news-sample.com/article/market-surge-nextgen-solutions-stock-rises-30%-after-strategic-partnership",
+    "headline": "Market Surge: NextGen Solutions Stock Rises 30% After strategic partnership",
+    "category": "BUSINESS",
+    "short_description": "Investors respond positively to news of quarterly earnings, driving stock prices up.",
+    "authors": "John Williams",
+    "date": "2024-12-24"
+  },
+  {
+    "link": "https://news-sample.com/article/medical-trial-reports-success-in-gene-therapy-development",
+    "headline": "Medical Trial Reports Success in gene therapy Development",
+    "category": "HEALTH",
+    "short_description": "Experts recommend lifestyle changes including exercise for better health outcomes.",
+    "authors": "Michael Johnson",
+    "date": "2024-12-25"
+  },
+  {
+    "link": "https://news-sample.com/article/medical-trial-reports-success-in-regenerative-medicine-development",
+    "headline": "Medical Trial Reports Success in regenerative medicine Development",
+    "category": "HEALTH",
+    "short_description": "The research suggests significant benefits for patients suffering from heart disease.",
+    "authors": "Michael Jones",
+    "date": "2024-12-26"
+  },
+  {
+    "link": "https://news-sample.com/article/india-announces-major-policy-shift-on-economic-cooperation",
+    "headline": "India Announces Major Policy Shift on economic cooperation",
+    "category": "WORLD NEWS",
+    "short_description": "Leaders from multiple nations gathered to address growing concerns about economic cooperation.",
+    "authors": "Michael Johnson",
+    "date": "2024-12-27"
+  },
+  {
+    "link": "https://news-sample.com/article/nextgen-solutions-expands-operations-to-asia-pacific",
+    "headline": "NextGen Solutions Expands Operations to Asia Pacific",
+    "category": "BUSINESS",
+    "short_description": "The move is part of a larger strategy to expand presence in Latin America markets.",
+    "authors": "Sarah Johnson",
+    "date": "2024-12-28"
+  },
+  {
+    "link": "https://news-sample.com/article/startup-raises-$500m-for-machine-learning-algorithm-development",
+    "headline": "Startup Raises $500M for machine learning algorithm Development",
+    "category": "TECHNOLOGY",
+    "short_description": "Researchers have achieved significant progress in robotics, promising to revolutionize cybersecurity.",
+    "authors": "John Johnson",
+    "date": "2024-12-29"
+  },
+  {
+    "link": "https://news-sample.com/article/global-investment-in-cloud-computing-reaches-$500b",
+    "headline": "Global Investment in cloud computing Reaches $500B",
+    "category": "BUSINESS",
+    "short_description": "Industry experts view this development as a positive sign for renewable energy growth.",
+    "authors": "John Johnson",
+    "date": "2024-12-30"
+  },
+  {
+    "link": "https://news-sample.com/article/techcorp-expands-operations-to-asia-pacific",
+    "headline": "TechCorp Expands Operations to Asia Pacific",
+    "category": "BUSINESS",
+    "short_description": "The deal is expected to create new opportunities in digital payments and boost market competition.",
+    "authors": "Emma Garcia",
+    "date": "2024-12-31"
+  },
+  {
+    "link": "https://news-sample.com/article/tech-giant-launches-revolutionary-smart-home-system",
+    "headline": "Tech Giant Launches Revolutionary smart home system",
+    "category": "TECHNOLOGY",
+    "short_description": "Industry experts predict this development could transform transportation within the next few years.",
+    "authors": "John Williams",
+    "date": "2025-01-01"
+  },
+  {
+    "link": "https://news-sample.com/article/research-reveals-unexpected-link-between-sleep-and-mental-health",
+    "headline": "Research Reveals Unexpected Link Between sleep and mental health",
+    "category": "SCIENCE",
+    "short_description": "The study provides new insights into climate patterns, challenging previous theories.",
+    "authors": "Jane Garcia",
+    "date": "2025-01-02"
+  },
+  {
+    "link": "https://news-sample.com/article/medical-trial-reports-success-in-immunotherapy-development",
+    "headline": "Medical Trial Reports Success in immunotherapy Development",
+    "category": "HEALTH",
+    "short_description": "The research suggests significant benefits for patients suffering from alzheimer's.",
+    "authors": "Sarah Smith",
+    "date": "2025-01-03"
+  },
+  {
+    "link": "https://news-sample.com/article/international-team-maps-universe-expansion-for-first-time",
+    "headline": "International Team Maps universe expansion for First Time",
+    "category": "SCIENCE",
+    "short_description": "Researchers say this finding could revolutionize our approach to robotics.",
+    "authors": "Michael Johnson",
+    "date": "2025-01-04"
+  },
+  {
+    "link": "https://news-sample.com/article/global-investment-in-digital-payments-reaches-$250b",
+    "headline": "Global Investment in digital payments Reaches $250B",
+    "category": "BUSINESS",
+    "short_description": "Industry experts view this development as a positive sign for artificial intelligence growth.",
+    "authors": "John Williams",
+    "date": "2025-01-05"
+  },
+  {
+    "link": "https://news-sample.com/article/tech-giant-launches-revolutionary-wearable-device",
+    "headline": "Tech Giant Launches Revolutionary wearable device",
+    "category": "TECHNOLOGY",
+    "short_description": "Early tests show promising results in healthcare, with potential applications in robotics.",
+    "authors": "Jane Williams",
+    "date": "2025-01-06"
+  },
+  {
+    "link": "https://news-sample.com/article/report-shows-impact-of-trade-relations-on-african-markets",
+    "headline": "Report Shows Impact of trade relations on African markets",
+    "category": "WORLD NEWS",
+    "short_description": "Experts say this development could reshape international relations in Middle East.",
+    "authors": "Sarah Jones",
+    "date": "2025-01-07"
+  },
+  {
+    "link": "https://news-sample.com/article/tech-giant-launches-revolutionary-ai-assistant",
+    "headline": "Tech Giant Launches Revolutionary AI assistant",
+    "category": "TECHNOLOGY",
+    "short_description": "Early tests show promising results in climate monitoring, with potential applications in renewable energy.",
+    "authors": "Sarah Jones",
+    "date": "2025-01-08"
+  },
+  {
+    "link": "https://news-sample.com/article/research-reveals-benefits-of-sleep-habits-for-physical-fitness",
+    "headline": "Research Reveals Benefits of sleep habits for physical fitness",
+    "category": "HEALTH",
+    "short_description": "Experts recommend lifestyle changes including sleep habits for better health outcomes.",
+    "authors": "Sarah Smith",
+    "date": "2025-01-09"
+  },
+  {
+    "link": "https://news-sample.com/article/startup-raises-$100m-for-quantum-processor-development",
+    "headline": "Startup Raises $100M for quantum processor Development",
+    "category": "TECHNOLOGY",
+    "short_description": "The innovation addresses long-standing challenges in robotics, offering new possibilities.",
+    "authors": "David Johnson",
+    "date": "2025-01-10"
+  },
+  {
+    "link": "https://news-sample.com/article/economic-report-shows-rapid-in-cloud-computing-growth",
+    "headline": "Economic Report Shows rapid in cloud computing Growth",
+    "category": "BUSINESS",
+    "short_description": "The deal is expected to create new opportunities in digital payments and boost market competition.",
+    "authors": "Emma Brown",
+    "date": "2025-01-11"
+  },
+  {
+    "link": "https://news-sample.com/article/global-investment-in-digital-payments-reaches-$250b",
+    "headline": "Global Investment in digital payments Reaches $250B",
+    "category": "BUSINESS",
+    "short_description": "Industry experts view this development as a positive sign for digital payments growth.",
+    "authors": "Michael Jones",
+    "date": "2025-01-12"
+  },
+  {
+    "link": "https://news-sample.com/article/futureworks-expands-operations-to-latin-america",
+    "headline": "FutureWorks Expands Operations to Latin America",
+    "category": "BUSINESS",
+    "short_description": "The deal is expected to create new opportunities in artificial intelligence and boost market competition.",
+    "authors": "Jane Smith",
+    "date": "2025-01-13"
+  },
+  {
+    "link": "https://news-sample.com/article/techcorp-announces-merger-with-futuretech",
+    "headline": "TechCorp Announces Merger with FutureTech",
+    "category": "BUSINESS",
+    "short_description": "Industry experts view this development as a positive sign for artificial intelligence growth.",
+    "authors": "Sarah Brown",
+    "date": "2025-01-14"
+  },
+  {
+    "link": "https://news-sample.com/article/breakthrough-treatment-shows-promise-for-diabetes",
+    "headline": "Breakthrough Treatment Shows Promise for diabetes",
+    "category": "HEALTH",
+    "short_description": "Clinical trials show promising results in treating cancer with new approach.",
+    "authors": "Michael Jones",
+    "date": "2025-01-15"
+  },
+  {
+    "link": "https://news-sample.com/article/medical-trial-reports-success-in-targeted-treatment-development",
+    "headline": "Medical Trial Reports Success in targeted treatment Development",
+    "category": "HEALTH",
+    "short_description": "Experts recommend lifestyle changes including diet changes for better health outcomes.",
+    "authors": "Emma Smith",
+    "date": "2025-01-16"
+  },
+  {
+    "link": "https://news-sample.com/article/market-surge-globaltech-stock-rises-25%-after-market-expansion",
+    "headline": "Market Surge: GlobalTech Stock Rises 25% After market expansion",
+    "category": "BUSINESS",
+    "short_description": "Analysts predict significant market impact following the announcement of quarterly earnings.",
+    "authors": "David Garcia",
+    "date": "2025-01-17"
+  },
+  {
+    "link": "https://news-sample.com/article/market-surge-techcorp-stock-rises-35%-after-market-expansion",
+    "headline": "Market Surge: TechCorp Stock Rises 35% After market expansion",
+    "category": "BUSINESS",
+    "short_description": "The move is part of a larger strategy to expand presence in Middle East markets.",
+    "authors": "John Jones",
+    "date": "2025-01-18"
+  },
+  {
+    "link": "https://news-sample.com/article/scientists-develop-machine-learning-algorithm-for-space-exploration",
+    "headline": "Scientists Develop machine learning algorithm for space exploration",
+    "category": "TECHNOLOGY",
+    "short_description": "Researchers have achieved significant progress in quantum computing, promising to revolutionize cybersecurity.",
+    "authors": "Emma Garcia",
+    "date": "2025-01-19"
+  },
+  {
+    "link": "https://news-sample.com/article/international-summit-addresses-cybersecurity",
+    "headline": "International Summit Addresses cybersecurity",
+    "category": "WORLD NEWS",
+    "short_description": "The decision is expected to have significant implications for climate policy globally.",
+    "authors": "Sarah Smith",
+    "date": "2025-01-20"
+  }
+]
